@@ -1,0 +1,1 @@
+This project showcases a basic Notepad application built using Assembly language. The main objective of this project is to explore key concepts in assembly programming while developing a functional utility.
